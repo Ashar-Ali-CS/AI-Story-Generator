@@ -1,2 +1,2 @@
-# AI-Story-Generator
+# StoryGenerator: Creative text generation using a Recurrent Neural Network(RNN) 
 StoryLSTM — A simple story text generator using an LSTM-based RNN implemented in PyTorch. Trained on Grimm’s fairy tales for creative text generation.
